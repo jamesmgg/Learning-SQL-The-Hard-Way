@@ -1,4 +1,0 @@
-select * from pet where age > 10;
-select * from person where age > 21;
-select * from person where first_name = "Jaime" AND last_name = "Guajardo";
-select *, *, * from *;
